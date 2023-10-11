@@ -1,6 +1,6 @@
-package th1.Shapes;
+package th.Shapes;
 
-import th1.Shape;
+import th.Shape;
 
 public class Circle implements Shape {
     private double r;

@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Playable {
+public interface Playable {
+    void play();
 }

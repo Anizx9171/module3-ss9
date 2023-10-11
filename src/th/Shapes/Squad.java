@@ -1,6 +1,5 @@
-package th1.Shapes;
+package th.Shapes;
 
-import th1.Shape;
 
 public class Squad implements Shape {
     private double width;
